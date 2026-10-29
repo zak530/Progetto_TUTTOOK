@@ -1,6 +1,6 @@
 # TUTTOK
 
-> Vicini anche da lontano, con un'interfaccia che parla chiaro.
+> Tag line: Vicini anche da lontano, con un'interfaccia che parla chiaro.
 
 Applicazione che permette ai familiari di gestire da remoto gli impegni degli anziani con promemoria automatici e un’interfaccia ultra-semplificata.
 
@@ -64,13 +64,6 @@ FamilyWall, Cozi, Medisafe
 2. Caregiver Familiare:
 3. Anziano: Utilizza l'interfaccia semplificata per ricevere promemoria, confermare azioni e comunicare il proprio stato.
 
----
-
-## Diagramma Use Case (UML)
-
-Di seguito è riportato il diagramma dei casi d'uso che illustra le interazioni tra gli attori e le funzionalità del sistema:
-
-![Diagramma Use Case TUTTOK](./images/UML_progettoTUTTOK.png)
 
 
 ---
@@ -137,3 +130,58 @@ Di seguito è riportato il diagramma dei casi d'uso che illustra le interazioni 
 
 #### Benessere Emotivo
 - Come anziano, voglio ricevere e guardare foto condivise dai familiari in un'area dedicata, così che mi sento più connesso e provo felicità.
+
+
+  ---
+
+## Diagramma Use Case (UML)
+
+Di seguito è riportato il diagramma dei casi d'uso che illustra le interazioni tra gli attori e le funzionalità del sistema:
+
+![Diagramma Use Case TUTTOK](./images/UML_progettoTUTTOK.png)
+
+---
+## Diagramma Use Case (UML per iscritto)
+- [familiare]-(inserimento appuntamenti)
+- [familiare]-(condivisione foto)
+- [caregiver familiare]-(condivisione foto)
+- [anziano]-(condivisione foto)
+- (condivisione foto)>(controllo appartenenza gruppo)
+- [familiare]-(mandare messaggi vocali)
+- (inserimento appuntamenti)>(colore in base all'appuntamento)
+- [familiare]-(modificare appuntamenti)
+- [familiare]-(inserimento di suoni distinti)
+- [familiare]-(visualizzare report settimanale)
+- (visualizzare report settimanale)>(inserimento report settimanale)
+- [caregiver familiare]-(aggiungere stato dell'anziano)
+- [caregiver familiare]-(inserimento report settimanale)
+- [familiare]-(tracciamento assunzione farmaci)
+- [familiare]-(visualizzazione pillole rimanenti)
+- [caregiver familiare]-(visualizzazione pillole rimanenti)
+- [caregiver familiare]-(confermare assunzione pillola)
+- [familiare]-(visualizzare foto)
+- [caregiver familiare]-(tracciamento assunzioni farmaci)
+- [caregiver familiare]-(visualizzare foto)
+- (confermare assunzione pillola)>(segnare pillole rimanenti)
+- [familiare]-(impostare notifiche a orario stabilito)
+- [anziano]-(vista calendario)
+- [caregiver familiare]-(vista calendario)
+- (vista calendario)>(inserimento appuntamenti)
+- [familiare]-(vista calendario)
+- [familiare]-(creare profilo anziano)
+- [familiare]-(assegnamento ruoli nel gruppo) 
+- [familiare]-(cancellare appuntamenti)
+- [familiare]-(login)
+- [caregiver familiare]-(login)
+- [anziano]-(login)
+- (login)>(inserimento codice gruppo)
+- [anziano]-(premere pulsanti di conferma)
+- [anziano]-(mandare messaggi vocali)
+- [caregiver familiare]-(mandare messaggi vocali)
+- (mandare messaggi vocali)> (controllo appartenenza gruppo)
+- [anziano]-(premere pulsante SOS)
+- [anziano]-(visualizzare foto delle pillole da prendere)
+- [anziano]-(visualizzare foto)
+
+
+
