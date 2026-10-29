@@ -22,6 +22,12 @@ TUTTOK è progettata per permettere ai familiari di inserire da remoto promemori
 FamilyWall, Cozi, Medisafe
 
 ---
+### Tecnologie
+- github
+- yUML
+
+
+---
 
 ## Requisiti Funzionali
 
