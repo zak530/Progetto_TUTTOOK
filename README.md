@@ -1,6 +1,6 @@
 # TUTTOK
 
-> Tag line: Vicini anche da lontano, con un'interfaccia che parla chiaro.
+> Vicini anche da lontano, con un'interfaccia che parla chiaro.
 
 Applicazione che permette ai familiari di gestire da remoto gli impegni degli anziani con promemoria automatici e un’interfaccia ultra-semplificata.
 
@@ -63,12 +63,18 @@ FamilyWall, Cozi, Medisafe
 - Backup automatico periodico per prevenzione perdita dati
 
 ---
+## Requisiti di dominio
+- avviso in base a quante scorte mancano in base al numero di pilloole
+- Esistono ruoli diversi dove l'amministratore può modificare tutto mentre l'operatore può solo segnare i farmaci presi o aggiungere note
+- rilevamento in caso di inattivita a lungo termine (anziano che non interagisce con app)
+---
+
 
 ## Attori del Sistema
 
-1. Familiare: Gestisce profili, inserisce appuntamenti, monitora terapie e coordina la famiglia.
-2. Caregiver Familiare:
-3. Anziano: Utilizza l'interfaccia semplificata per ricevere promemoria, confermare azioni e comunicare il proprio stato.
+1. Familiare
+2. Caregiver Familiare
+3. Anziano
 
 
 
