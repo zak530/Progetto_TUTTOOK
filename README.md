@@ -43,7 +43,6 @@ FamilyWall, Cozi, Medisafe
 - Pulsante SOS rosso grande per chiamare contatti di emergenza preimpostati
 - Messaggi vocali semplici per la comunicazione
 - Tasto "TUTTO OK" per segnalare ai familiari che l'anziano sta bene
-- Rilevamento inattività a lungo termine dell'anziano nell'app
 - Area dedicata alla condivisione di foto per trasmettere serenità
 - Gestione multi-familiare dello stesso profilo anziano con ruoli differenziati (Amministratore/Operatore)
 - Riassunto settimanale automatico (appuntamenti svolti, farmaci assunti, mancate conferme)
@@ -105,8 +104,6 @@ FamilyWall, Cozi, Medisafe
 - Come familiare, voglio essere avvisato se l'anziano non interagisce con l'app per un periodo prolungato, così che posso verificare che stia tutto bene.
 - Come familiare, voglio vedere lo stato "TUTTO OK" quando l'anziano lo conferma, così che so che sta bene senza doverlo chiamare.
 
-#### Gestione Account
-- Come familiare, voglio poter chiudere l'account dopo 12 mesi senza costi aggiuntivi, così che non incorro in spese indesiderate se decido di interrompere il servizio.
 #### Comunicazione
 - Come familiare, voglio inviare messaggi vocali semplici all'anziano, così che posso comunicare in modo facile e immediato.
 - Come familiare, voglio condividere foto nell'area dedicata, così che trasmetto sicurezza all'anziano.
