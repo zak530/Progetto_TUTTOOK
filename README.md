@@ -70,7 +70,7 @@ FamilyWall, Cozi, Medisafe
 
 Di seguito è riportato il diagramma dei casi d'uso che illustra le interazioni tra gli attori e le funzionalità del sistema:
 
-![Diagramma Use Case TUTTOK](use-case-diagram.png)
+![Diagramma Use Case TUTTOK](./images/UML_progettoTUTTOK.png)
 
 
 ---
