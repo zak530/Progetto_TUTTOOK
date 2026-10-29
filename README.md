@@ -1,6 +1,7 @@
 # TUTTOK
 
-> Vicini anche da lontano, con un'interfaccia che parla chiaro.
+## Tag line
+Vicini anche da lontano, con un'interfaccia che parla chiaro.
 
 Applicazione che permette ai familiari di gestire da remoto gli impegni degli anziani con promemoria automatici e un’interfaccia ultra-semplificata.
 
