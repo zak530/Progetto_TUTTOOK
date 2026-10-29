@@ -74,8 +74,8 @@ FamilyWall, Cozi, Medisafe
 
 #### Gestione Profilo e Accessi
 - Come familiare, voglio creare il profilo dell'anziano e invitare altri familiari, così che possiamo gestire insieme gli impegni.
-- Come familiare, voglio assegnare ruoli diversi (amministratore o operatore) agli altri familiari, così che ognuno abbia i permessi appropriati.
-- Come familiare, voglio visualizzare una vista mensile del calendario condiviso, così che posso coordinare gli impegni di tutta la famiglia.
+- Come familiare, voglio assegnare ruoli diversi (amministratore o operatore) agli altri membri, così che ognuno abbia i permessi appropriati.
+- Come familiare, voglio visualizzare una vista mensile del calendario condiviso, così che posso coordinare gli impegni dell'anziano.
 
 #### Gestione Appuntamenti Completa
 - Come familiare, voglio creare, modificare e cancellare appuntamenti dal mio telefono, così che l'agenda dell'anziano sia sempre aggiornata.
@@ -85,7 +85,7 @@ FamilyWall, Cozi, Medisafe
 
 #### Gestione Farmaci Avanzata
 - Come familiare, voglio impostare promemoria farmaci con orari specifici e foto del medicinale, così che l'anziano sappia esattamente cosa prendere.
-- Come familiare, voglio monitorare il tracciamento delle assunzioni dei farmaci da parte dell'anziano o della badante, così che posso verificare la corretta terapia.
+- Come familiare, voglio monitorare il tracciamento delle assunzioni dei farmaci da parte dell'anziano, così che posso verificare la corretta terapia.
 - Come familiare, voglio ricevere avvisi automatici quando le scorte di un farmaco stanno per finire (basato sul numero di pillole rimanenti), così che posso provvedere al rifornimento in tempo.
 
 #### Monitoraggio e Report
@@ -95,7 +95,9 @@ FamilyWall, Cozi, Medisafe
 
 #### Gestione Account
 - Come familiare, voglio poter chiudere l'account dopo 12 mesi senza costi aggiuntivi, così che non incorro in spese indesiderate se decido di interrompere il servizio.
-
+#### Comunicazione
+- Come familiare, voglio inviare messaggi vocali semplici all'anziano, così che posso comunicare in modo facile e immediato.
+- Come familiare, voglio condividere foto nell'area dedicata, così che trasmetto sicurezza all'anziano.
 ---
 
 ### CAREGIVER FAMILIARE (Operatore)
@@ -108,8 +110,7 @@ FamilyWall, Cozi, Medisafe
 
 #### Comunicazione
 - Come caregiver familiare (operatore), voglio inviare messaggi vocali semplici all'anziano, così che posso comunicare in modo facile e immediato.
-- Come caregiver familiare (operatore), voglio condividere foto nell'area dedicata, così che trasmetto felicità e sicurezza all'anziano.
-
+- Come caregiver familiare (operatore), voglio condividere foto nell'area dedicata, così che trasmetto sicurezza all'anziano.
 ---
 
 ### ANZIANO (Utente Finale)
