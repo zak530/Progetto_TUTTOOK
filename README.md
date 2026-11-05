@@ -84,7 +84,7 @@ FamilyWall, Cozi, Medisafe
 ### FAMILIARE (Amministratore/Coordinatore)
 
 #### Gestione Profilo e Accessi
-- Come familiare, voglio creare il profilo dell'anziano e invitare altri familiari, così che possiamo gestire insieme gli impegni.
+- Come familiare, voglio creare il profilo dell'anziano e invitare altri membri(familiari o caregiver familiari), così che possiamo gestire insieme gli impegni.
 - Come familiare, voglio assegnare ruoli diversi (amministratore o operatore) agli altri membri, così che ognuno abbia i permessi appropriati.
 - Come familiare, voglio visualizzare una vista mensile del calendario condiviso, così che posso coordinare gli impegni dell'anziano.
 
